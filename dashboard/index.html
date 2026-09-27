@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AI Engineering Learning System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header class="hero">
+      <div class="eyebrow">AI ENGINEERING · LEARNING SYSTEM</div>
+      <h1>LEARN → BUILD → SHIP</h1>
+      <p>One dependency graph for theory, implementation, engineering and portfolio evidence.</p>
+      <div class="stats">
+        <span><b id="phase-count">20</b> PHASES</span>
+        <span><b id="active-phase">03</b> ACTIVE</span>
+        <span><b id="overall-progress">0%</b> COMPLETE</span>
+      </div>
+    </header>
+
+    <section class="legend">
+      <span><i class="dot active"></i> ACTIVE</span>
+      <span><i class="dot upcoming"></i> UPCOMING</span>
+      <span><i class="dot complete"></i> COMPLETE</span>
+    </section>
+
+    <section id="roadmap" class="roadmap"></section>
+
+    <section class="system">
+      <div class="section-label">THE OPERATING MODEL</div>
+      <div class="pipeline">
+        <span>PROBLEM</span><b>→</b><span>DATA</span><b>→</b><span>MODEL</span><b>→</b>
+        <span>TRAIN</span><b>→</b><span>EVALUATE</span><b>→</b><span>ITERATE</span><b>→</b>
+        <span>DEPLOY</span><b>→</b><span>MONITOR</span><b>→</b><span>FEEDBACK</span>
+      </div>
+    </section>
+
+    <section class="lanes">
+      <div class="section-label">EVERY PHASE PRODUCES FOUR TYPES OF EVIDENCE</div>
+      <div id="lane-grid"></div>
+    </section>
+
+    <aside id="detail" class="detail hidden"></aside>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
