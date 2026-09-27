@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "title": "AI Engineering Learning System",
+  "activePhase": 2,
+  "lanes": [
+    {
+      "id": "theory",
+      "title": "Theory",
+      "description": "Concepts, mathematics, papers, mental models"
+    },
+    {
+      "id": "implementation",
+      "title": "Implementation",
+      "description": "From scratch, framework implementation, experiments"
+    },
+    {
+      "id": "engineering",
+      "title": "Engineering",
+      "description": "Data, testing, tooling, APIs, deployment, reliability"
+    },
+    {
+      "id": "project",
+      "title": "Project",
+      "description": "Evidence-producing artifacts and end-to-end systems"
+    }
+  ],
+  "phases": [
+    {
+      "id": "00",
+      "title": "Setup & Tooling",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "01",
+      "title": "Math Foundations",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "00"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "02",
+      "title": "ML Fundamentals",
+      "status": "active",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "01"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "03",
+      "title": "Deep Learning Core",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "02"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "04",
+      "title": "Computer Vision",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "03"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "05",
+      "title": "NLP — Foundations → Advanced",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "04"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "06",
+      "title": "Speech & Audio",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "05"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "07",
+      "title": "Transformers Deep Dive",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "06"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "08",
+      "title": "Generative AI",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "07"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "09",
+      "title": "Reinforcement Learning",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "08"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "10",
+      "title": "LLMs from Scratch",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "09"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "11",
+      "title": "LLM Engineering",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "10"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Multimodal AI",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "11"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Tools & Protocols",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "12"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Agent Engineering",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "13"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Autonomous Systems",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "14"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Multi-Agent & Swarms",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "15"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Infrastructure & Production",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "16"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Ethics, Safety & Alignment",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "17"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Capstone Projects",
+      "status": "upcoming",
+      "progress": 0,
+      "lessons": 0,
+      "prerequisites": [
+        "18"
+      ],
+      "outputs": {
+        "theory": "notes + explanations",
+        "implementation": "working code",
+        "engineering": "reproducible workflow",
+        "project": "portfolio evidence"
+      }
+    }
+  ]
+}
