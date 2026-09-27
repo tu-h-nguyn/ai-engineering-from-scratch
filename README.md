@@ -1429,3 +1429,12 @@ Maintained by [Rohit Ghumare](https://github.com/rohitg00) and the community.
   <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;·&nbsp;
   <a href="https://github.com/rohitg00/ai-engineering-from-scratch/issues/new/choose">Report / Suggest</a>
 </sub>
+
+
+## AI Engineering Learning Dashboard
+
+The repository now includes a structured learning operating system that maps the curriculum as a dependency graph and tracks four evidence lanes: Theory, Implementation, Engineering, and Project.
+
+**Open the roadmap dashboard:** [dashboard/index.html](dashboard/index.html) · **Machine-readable curriculum:** [roadmap/roadmap.json](roadmap/roadmap.json)
+
+The dashboard is intentionally separate from the lesson corpus: lessons remain the source material, while the roadmap layer is the system for organizing learning, implementation, engineering practice, and portfolio evidence.
