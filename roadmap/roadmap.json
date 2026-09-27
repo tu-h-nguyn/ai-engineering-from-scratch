@@ -110,7 +110,7 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
-        "04"
+        "03"
       ],
       "outputs": {
         "theory": "notes + explanations",
@@ -126,7 +126,7 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
-        "05"
+        "03"
       ],
       "outputs": {
         "theory": "notes + explanations",
@@ -142,7 +142,7 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
-        "06"
+        "05"
       ],
       "outputs": {
         "theory": "notes + explanations",
@@ -174,7 +174,7 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
-        "08"
+        "03"
       ],
       "outputs": {
         "theory": "notes + explanations",
@@ -190,7 +190,7 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
-        "09"
+        "07"
       ],
       "outputs": {
         "theory": "notes + explanations",
@@ -222,7 +222,7 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
-        "11"
+        "10"
       ],
       "outputs": {
         "theory": "notes + explanations",
@@ -238,7 +238,7 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
-        "12"
+        "11"
       ],
       "outputs": {
         "theory": "notes + explanations",
@@ -302,7 +302,7 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
-        "16"
+        "14"
       ],
       "outputs": {
         "theory": "notes + explanations",
@@ -318,6 +318,7 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
+        "15",
         "17"
       ],
       "outputs": {
@@ -334,6 +335,8 @@
       "progress": 0,
       "lessons": 0,
       "prerequisites": [
+        "16",
+        "17",
         "18"
       ],
       "outputs": {
